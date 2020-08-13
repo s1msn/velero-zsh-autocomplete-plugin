@@ -14,4 +14,4 @@ plugins=(
 ## Contributors
 
 + [s1msn](https://github.com/s1msn) - Plugin Author
-Based on [kevinkirkup](https://github.com/kevinkirkup)'s oc autocomplete plugin.
++ Based on [kevinkirkup](https://github.com/kevinkirkup)'s oc autocomplete plugin.
